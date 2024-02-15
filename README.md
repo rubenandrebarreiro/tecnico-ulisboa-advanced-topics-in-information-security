@@ -37,7 +37,7 @@
 
 ## Description
 
-> A [**_1st year's project_**](https://fenix.tecnico.ulisboa.pt/cursos/deaseginf/curriculo) of the [**_Ph.D. degree of Information Security_**](https://fenix.tecnico.ulisboa.pt/cursos/deaseginf) made in [**_Técnico ULisboa (Instituto Superior Técnico of University of Lisbon)_**](https://tecnico.ulisboa.pt/), in the subject of [**_Advanced Topics in Information Security_**](https://fenix.tecnico.ulisboa.pt/disciplinas/TASI-II/2023-2024/2-semestre). This projects was built using [**_Mathematica_**](https://www.wolfram.com/mathematica/), [**_Jupyter Notebook_**](https://jupyter.org/), [**_Python_**](https://www.python.org/), [**_Java_**](https://www.java.com/) and [**_Bouncy Castle Crypto API_**](https://www.bouncycastle.org/). This repository is based on some _theoretical notebook demonstrations and examples_ and _practical exercises_ related with [**_Advanced Topics in Information Security_**](https://fenix.tecnico.ulisboa.pt/disciplinas/TASI-II/2023-2024/2-semestre) course, jointly with [Cryptography and Security Protocols](https://fenix.tecnico.ulisboa.pt/disciplinas/CPS3/2023-2024/2-semestre), among many others!
+> A [**_1st year's project_**](https://fenix.tecnico.ulisboa.pt/cursos/deaseginf/curriculo) of the [**_Ph.D. degree of Information Security_**](https://fenix.tecnico.ulisboa.pt/cursos/deaseginf) made in [**_Técnico ULisboa (Instituto Superior Técnico of University of Lisbon)_**](https://tecnico.ulisboa.pt/), in the subject of [**_Advanced Topics in Information Security_**](https://fenix.tecnico.ulisboa.pt/disciplinas/TASI-II/2023-2024/2-semestre). This projects was built using [**_Mathematica_**](https://www.wolfram.com/mathematica/), [**_Jupyter Notebook_**](https://jupyter.org/), [**_Python_**](https://www.python.org/), [**_Java_**](https://www.java.com/), [**_Bouncy Castle Crypto API_**](https://www.bouncycastle.org/), and [**_TeX_**](https://www.tug.org/). This repository is based on some _theoretical notebook demonstrations and examples_ and _practical exercises_ related with [**_Advanced Topics in Information Security_**](https://fenix.tecnico.ulisboa.pt/disciplinas/TASI-II/2023-2024/2-semestre) course, jointly with [**_Cryptography and Security Protocols_**](https://fenix.tecnico.ulisboa.pt/disciplinas/CPS3/2023-2024/2-semestre), among many others!
 
 ## Screenshots
 
@@ -61,7 +61,7 @@ To install and run this application, you will need:
 ### Installation
 To install this application, you will need to _download_ or _clone_ this repository and run the application locally:
 
-> You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-2/archive/master.zip) in download section of this repository.
+> You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/archive/master.zip) in download section of this repository.
 
 > Or instead, by cloning this repository by a [**_Git Client based GUI_**](https://git-scm.com/downloads/guis), using [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS) or [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol), by one of the following link:
 * [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS):
@@ -84,11 +84,13 @@ git clone git@github.com:rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-i
 ```
 
 ## Built with
-* [**_Apache Spark API_**](https://spark.apache.org/)
-* [**_Java_**](http://www.java.com/)
-* [**_Gradle_**](https://gradle.org/)
-* [**_Eclipse IDE_**](https://www.eclipse.org/)
-* [**_JetBrains IntelliJ IDEA_**](https://www.jetbrains.com/idea/)
+* [**_Mathematica_**](https://www.wolfram.com/mathematica/)
+* [**_Jupyter Notebook_**](https://jupyter.org/)
+* [**_Python_**](https://www.python.org/)
+* [**_Java_**](https://www.java.com/)
+* [**_Bouncy Castle Crypto API_**](https://www.bouncycastle.org/)
+* [**_TeX_**](https://www.tug.org/)
+
 
 ## Contributors
 > [Paulo Alexandre Mateus (Professor)](https://fenix.tecnico.ulisboa.pt/homepage/ist13783)
