@@ -20,6 +20,7 @@
 [![keyword of this version no. 4](https://img.shields.io/badge/keyword-classical&nbsp;post&nbsp;quantum&nbsp;cryptography-brown.svg)](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/)
 [![keyword of this version no. 5](https://img.shields.io/badge/keyword-quantum&nbsp;cryptography-brown.svg)](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/)
 [![keyword of this version no. 6](https://img.shields.io/badge/keyword-multi&nbsp;party&nbsp;computation-brown.svg)](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/)
+[![keyword of this version no. 7](https://img.shields.io/badge/keyword-quantum&nbsp;computing-brown.svg)](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/)
 
 [![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-wolfram&nbsp;mathematica&nbsp;api-red.svg)](https://www.wolfram.com/mathematica/)
 [![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-jupyter&nbsp;notebook-red.svg)](https://jupyter.org/)
