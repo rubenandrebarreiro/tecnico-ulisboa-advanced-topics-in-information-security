@@ -14,10 +14,12 @@
 [![status of this version no. 3](https://img.shields.io/badge/status-not&nbsp;stable-orange.svg)](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/)
 [![status of this version no. 4](https://img.shields.io/badge/status-documented-orange.svg)](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/)
 
-[![keyword of this version no. 1](https://img.shields.io/badge/keyword-high&nbsp;performance&nbsp;computing-brown.svg)](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/)
-[![keyword of this version no. 2](https://img.shields.io/badge/keyword-apache&nbsp;spark-brown.svg)](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/)
-[![keyword of this version no. 3](https://img.shields.io/badge/keyword-big&nbsp;data-brown.svg)](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/)
-[![keyword of this version no. 4](https://img.shields.io/badge/keyword-clustering-brown.svg)](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/)
+[![keyword of this version no. 1](https://img.shields.io/badge/keyword-information&nbsp;security-brown.svg)](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/)
+[![keyword of this version no. 2](https://img.shields.io/badge/keyword-cryptography-brown.svg)](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/)
+[![keyword of this version no. 3](https://img.shields.io/badge/keyword-classical&nbsp;pre&nbsp;quantum&nbsp;cryptography-brown.svg)](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/)
+[![keyword of this version no. 4](https://img.shields.io/badge/keyword-classical&nbsp;post&nbsp;quantum&nbsp;cryptography-brown.svg)](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/)
+[![keyword of this version no. 5](https://img.shields.io/badge/keyword-quantum&nbsp;cryptography-brown.svg)](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/)
+[![keyword of this version no. 6](https://img.shields.io/badge/keyword-multi&nbsp;party&nbsp;computation-brown.svg)](https://github.com/rubenandrebarreiro/tecnico-ulisboa-advanced-topics-in-information-security/)
 
 [![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-wolfram&nbsp;mathematica&nbsp;api-red.svg)](https://www.wolfram.com/mathematica/)
 [![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-jupyter&nbsp;notebook-red.svg)](https://jupyter.org/)
